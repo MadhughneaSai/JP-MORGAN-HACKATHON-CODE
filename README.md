@@ -1,2 +1,2 @@
-# Made a website for NGO called youngIsthaan foundat ion.
+# Made a website for NGO called youngIsthaan foundation.
 The entire code is in here.
